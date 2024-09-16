@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/company-website-reactjs/static/css/main.4581f57b.css",
-    "main.js": "/company-website-reactjs/static/js/main.a54f8661.js",
-    "index.html": "/company-website-reactjs/index.html",
-    "main.4581f57b.css.map": "/company-website-reactjs/static/css/main.4581f57b.css.map",
-    "main.a54f8661.js.map": "/company-website-reactjs/static/js/main.a54f8661.js.map"
+    "main.css": "/mastermind-capitals/static/css/main.4581f57b.css",
+    "main.js": "/mastermind-capitals/static/js/main.ce76b15f.js",
+    "index.html": "/mastermind-capitals/index.html",
+    "main.4581f57b.css.map": "/mastermind-capitals/static/css/main.4581f57b.css.map",
+    "main.ce76b15f.js.map": "/mastermind-capitals/static/js/main.ce76b15f.js.map"
   },
   "entrypoints": [
     "static/css/main.4581f57b.css",
-    "static/js/main.a54f8661.js"
+    "static/js/main.ce76b15f.js"
   ]
 }
